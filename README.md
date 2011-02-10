@@ -1,6 +1,6 @@
-SendDirectMessages
-==================
-同じ内容のDirect Messageを複数人に送ることができるスクリプト.
+broadcastter
+============
+登録した人全員に同じ内容のMentionを送ることができるスクリプト.
 
 必要なもの
 ----------
@@ -18,3 +18,9 @@ appdetail.yamlを書く.
 	consumer_secret : < consumer secret >
 	access_key : < access key >
 	access_secret : < access_secret >
+
+namelist.csv
+------------
+mentionを送る相手をnamelist.csvに書く
+	hiramotoys, <なんとかさん>, <なんとかさん>
+	<なんとかさん>
