@@ -4,9 +4,9 @@ broadcastter
 
 必要なもの
 ----------
-python 
-PyYAML 
-tweepy 
+python  
+PyYAML  
+tweepy  
 Macportsでインストールできる
 	sudo port install py26-yaml
 	sudo port install py26-tweepy
